@@ -1,0 +1,13 @@
+# Secrets — never commit the brrr token
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Tooling caches
+.ruff_cache/
+.pytest_cache/
+.ty_cache/
