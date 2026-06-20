@@ -83,3 +83,7 @@ uvx --with requests --with pytest pytest hisss.py -q
 ```
 
 The tests live in `hisss.py` itself and mock `requests` — they never hit the network.
+
+## License
+
+[MIT-0](LICENSE) (MIT No Attribution) — do whatever you like, no attribution required.
