@@ -1,6 +1,10 @@
 # hisss 🐍
 
+<img src="assets/logo.svg" alt="hisss" height="64">
+
 A tiny, single-file Python wrapper around the [brrr](https://brrr.now/docs) push-notification API.
+
+> hisss is an unofficial client and is not affiliated with or endorsed by brrr.
 One function, every brrr parameter, zero install friction (deps are declared
 inline via [PEP 723](https://peps.python.org/pep-0723/) and provisioned by
 [`uv`](https://docs.astral.sh/uv/)).
